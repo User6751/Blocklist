@@ -1,5 +1,5 @@
 ! Title: Custom Filter List
-! Expires: 4 days
+! Expires: 1 days
 ! Homepage:https://github.com/User6751/Blocklist
 
 

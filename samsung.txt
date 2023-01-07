@@ -23,7 +23,7 @@ Unicorn : Not free
 Total Adblock for Samsung : Do not use it, make by same company that made TotalAV. 
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antipup.txt
 
-Disconnect Free for Samsung Browser : Only block tracker, Samsung Browser already have a tracker blocking feature using disconnect list so it is useless.
+Disconnect Free for Samsung Browser : Only block tracker, Smart-antitracking feature already used disconnect list, so it is useless.
 https://browserhow.com/how-to-enable-privacy-settings-on-samsung-internet/
 https://disconnect.me/samsung
 

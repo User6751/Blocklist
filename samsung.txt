@@ -1,4 +1,6 @@
-Samsung adblock :
+Samsung Internet Browser Adblock :
+
+Remember to update them on play store, the version browser installed may be outdated.
 
 AdGuard Content Blocker : Best
 
@@ -8,21 +10,23 @@ Released on Jan 8, 2016. https://play.google.com/store/apps/details?id=org.adblo
 Adblock for Samsung internet: Copied ABP
 Released on Jan 25, 2016. https://play.google.com/store/apps/details?id=com.betafish.adblocksbrowser
 
-Crystal Adblock for Samsung Internet Browser : Also developed by eyeo GmbH just like ABP , have same ui,functions
+Crystal Adblock for Samsung Internet Browser : Also developed by eyeo GmbH just like ABP , have same ui,functions.
 https://play.google.com/store/apps/details?id=co.crystalapp.crystal
 
 SPEAR Adblocker : ui look terrible, update filters via software update. 
 https://archive.is/r9vBo
-The website link is dead. https://chrome.google.com/webstore/detail/spear-adblocker/odgmghjkmpdjnbkbefepcfnjchmldikd
+The website link is dead.
+https://chrome.google.com/webstore/detail/spear-adblocker/odgmghjkmpdjnbkbefepcfnjchmldikd
 
-Unicorn : Need to pay
+Unicorn : Not free
 
-Total Adblock for Samsung : Make by same company that made TotalAV. https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antipup.txt
+Total Adblock for Samsung : Do not use it, make by same company that made TotalAV. 
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antipup.txt
 
-Disconnect Free for Samsung Browser : Only block tracker,Samsung Browser already have a tracker block feature
+Disconnect Free for Samsung Browser : Only block tracker, Samsung Browser already have a tracker blocking feature using disconnect list so it is useless.
+https://browserhow.com/how-to-enable-privacy-settings-on-samsung-internet/
+https://disconnect.me/samsung
 
 Adblok Fast : Latest commit about filters is on Feb 24, 2021. https://github.com/rocketshipapps/adblockfast/blob/main/opera/chrome/scripts/blocking.js
 Didn't use easylist syntax, can't add rules or whitelist website.
-
-
 

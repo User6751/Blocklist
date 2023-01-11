@@ -4,16 +4,6 @@
 
 !#include Blocklist /urlparameters.txt
 
-hk.news.yahoo.com###community-bar
-hk.yahoo.com###community-bar-[id^="community-bar-"]
-
-! 2023-01-08 https://www.instagram.com
-www.instagram.com##.x1ey2m1c.x1rozsjd.xh8yej3.x11njtxf.x2b8uid.xixxii4.x1t2a60a.xs9asl8.x1mpkggp.x123j3cw.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.x17qophe.xl56j7k.x2lah0s.xdt5ytf.x78zum5.x9f619.xpkhe5l.xoqspk4.xfh8nwu.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xvjdkko.x6s0dn4
-
-! 2023-01-08 https://twitter.com
-twitter.com##div.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n:nth-of-type(1)
-
-
 
 
 

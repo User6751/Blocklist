@@ -3,7 +3,11 @@
 ! Homepage:https://github.com/User6751/Blocklist
 
 !#include filters/urlparameters.txt
+!#include filters/ads.txt
+!#include filters/annoyances.txt
 !#include filters/malware.txt
+
+
 
 
 

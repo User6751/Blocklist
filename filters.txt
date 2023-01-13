@@ -2,7 +2,7 @@
 ! Expires: 1 days
 ! Homepage:https://github.com/User6751/Blocklist
 
-!#include urlparameters.txt
+!#include filters/urlparameters.txt
 !#include filters/malware.txt
 
 

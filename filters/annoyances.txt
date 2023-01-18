@@ -1,6 +1,6 @@
 yahoo.com##[id^="community-bar"]
 yahoo.com###module-featurebar
-
+hk.yahoo.com###related-article- > .wafer-caas-complete.did-prefetch[id^="container-"]
 yahoo.com###related-article-0 > .wafer-caas-complete_D\(b\).D\(n\).wafer-caas-wrapper > .Mih\(500px\).Mb\(40px\).related-content-inner
 quora.com##.qu-height--60.qu-bg--blue.qu-justifyContent--center.qu-alignItems--center.q-flex
 

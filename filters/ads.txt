@@ -1,6 +1,6 @@
 yahoo.com##.Py\(0\)\!.Py\(8px\).Ovx\(h\).M\(0\) > div
 yahoo.com##.Z\(2\).D\(b\).T\(12px\).End\(4px\).Pos\(a\).H\(30px\).Maw\(26\%\).W\(26\%\).app-promo 
-
+yahoo.com###module-appPromoBanner
 yazhouse8.com##.banners
 
 

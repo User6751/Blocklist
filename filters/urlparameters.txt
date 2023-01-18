@@ -3,7 +3,7 @@
 ||quora.com^$removeparam=share
 ||quora.com^$removeparam=srid
 
-
-
+||google.*^$removeparam=sclient
+||google.*^$removeparam=prmd
 
 
